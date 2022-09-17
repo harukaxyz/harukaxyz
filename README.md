@@ -1,7 +1,17 @@
 # <h3 align="left">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> </h3>
 
-Im Sulis
+# <h4 align="center">Im Sulis </h4>
 
+<p
+align="center">I'm 19 years old, and I'm a beginner
+</p>
+
+<p align="center">
+  <a href="facebook.com/harukaxyz">Facebook </a>
+  <a href="instagram.com/harukaxyz_">Instagram </a>
+  <a href="t.me/harukaxyz">Telegram </a>
+  <a href="twitter.com/harukaxyz_">Twitter </a>
+</p>
 
 # <h3 align="left">GitHub Stats</h3>
 
